@@ -7,7 +7,7 @@
   <div contenteditable="true" class="text-box" ng-model="ctrl.text" ng-model-options="{ debounce: 300 }" ></div>
   ```
 <h2> leaflet-map </h2>
-<strong>Allows create beautiful map and insert in page</strong>
+<strong>Allows create a beautiful map and insert it on page</strong>
 <h3>Usage</h3>
 ```javascript
    <leaflet-map user="[latitude, longitude]" zoom="3"></leaflet-map>
