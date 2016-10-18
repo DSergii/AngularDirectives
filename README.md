@@ -13,4 +13,6 @@
    <leaflet-map user="[latitude, longitude]" zoom="3"></leaflet-map>
    ```
 <p>pass to directive coords and zoom </p>
+<h4>CSS</h4>
+<p>for styling marker add custom class and styling it through it (see js file)</p>
 [Carto documentation](https://carto.com/docs/tutorials/)
