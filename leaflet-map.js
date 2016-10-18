@@ -1,4 +1,3 @@
-module.exports = angular.module('intercom.directives.leafletMap', [])
 
 	.directive('leafletMap', function () {
 		'use strict';
